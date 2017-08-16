@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,aACC,iBAAgB,CAChB,YAAW,EAAA;AACX,yBACC,WAAU,CACV,qBAAa,CAAb,qBAAa,CAAb,cAAa,EAAA","file":"../index.css","sourcesContent":["body,html{\r\n\tbackground: #0f0;\r\n\tcolor: #00f;\r\n\t.bobo{\r\n\t\tcolor: red;\r\n\t\tdisplay: flex;\r\n\t}\r\n}"]}
